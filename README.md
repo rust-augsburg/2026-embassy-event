@@ -16,6 +16,9 @@ This repository QRcode
 
 [rusjoystick](https://github.com/tiagomanczak/rusjoystick) - Rust joystick bridge
 
+[Burn, little candle, burn!](https://github.com/weinzierl/burn-little-candle-burn) - Machine learning with Rust
+
+
 ## Visit this repository
 
 Scan this QR code to open the project's GitHub page:
