@@ -44,7 +44,7 @@ This repository QRcode
 
 MiniOrchester with 3 Speakers
 
-Experimentation with Sensors
+[Experimentation with Sensors](https://github.com/hovinen/rust-embassy-augsburg-2026) - Embassy DHT11 sensor
 
 [HOMPI](https://git.rupp.digital/brupp/hompi) - Home Office Meeting Presence Indicator
 
