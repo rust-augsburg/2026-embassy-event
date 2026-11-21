@@ -14,6 +14,9 @@ This repository QRcode
 
 **Ludwig Weinzierl** · [weinzierlweb.com](https://weinzierlweb.com)
 
+**Michael Schury** · [![GitHub: @datenzauberer](https://img.shields.io/badge/GitHub-%40datenzauberer-181717?logo=github&logoColor=white)](https://github.com/datenzauberer)
+
+
 ## Projects
 
 [rusjoystick](https://github.com/tiagomanczak/rusjoystick) - Rust joystick bridge
