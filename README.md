@@ -28,6 +28,8 @@ This repository QRcode
 
 **Ludwig Weinzierl** · [weinzierlweb.com](https://weinzierlweb.com)
 
+**Beat Rupp** [rupp.digital](https://rupp.digital)
+
 ## Projects
 
 [rusjoystick](https://github.com/tiagomanczak/rusjoystick) - Rust joystick bridge
@@ -43,6 +45,8 @@ This repository QRcode
 MiniOrchester with 3 Speakers
 
 Experimentation with Sensors
+
+[HOMPI](https://git.rupp.digital/brupp/hompi) - Home Office Meeting Presence Indicator
 
 ## Visit this repository
 
