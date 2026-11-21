@@ -8,7 +8,7 @@ Event page: https://my.tuxedocomputers.com/event/embedded-rust-mit-embassy-works
 
 ## Participants
 
-Tiago Manczak - @tiagomanczak
+**Tiago Manczak** · [![GitHub: @tiagomanczak](https://img.shields.io/badge/GitHub-%40tiagomanczak-181717?logo=github&logoColor=white)](https://github.com/tiagomanczak)
 
 ## Projects
 
