@@ -12,6 +12,8 @@ This repository QRcode
 
 **Tiago Manczak** · [![GitHub: @tiagomanczak](https://img.shields.io/badge/GitHub-%40tiagomanczak-181717?logo=github&logoColor=white)](https://github.com/tiagomanczak)
 
+**Ludwig Weinzierl** · [weinzierlweb.com](https://weinzierlweb.com)
+
 ## Projects
 
 [rusjoystick](https://github.com/tiagomanczak/rusjoystick) - Rust joystick bridge
