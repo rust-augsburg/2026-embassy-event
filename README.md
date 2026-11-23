@@ -38,7 +38,7 @@ This repository QRcode
 
 [Burn, little candle, burn!](https://github.com/weinzierl/burn-little-candle-burn) - Machine learning with Rust
 
-[Rust Embassy Weather Station](https://github.com/koehlma/rust-workshop-weather-station) - Weather Station on the Raspberry Pi Pico W
+[Weather Station with OTA Updates](https://github.com/koehlma/rust-workshop-weather-station) - Weather Station on the Raspberry Pi Pico W
 
 [3D Drucker Status](https://github.com/TheRealJulianStrobel/3d_drucker_status) - 3D Drucker Status Viewer
 
@@ -47,8 +47,6 @@ MiniOrchester with 3 Speakers
 [Experimentation with Sensors](https://github.com/hovinen/rust-embassy-augsburg-2026) - Embassy DHT11 sensor
 
 [HOMPI](https://git.rupp.digital/brupp/hompi) - Home Office Meeting Presence Indicator
-
-[Weather Station with OTA Updates](https://github.com/koehlma/rust-workshop-weather-station)
 
 ## Visit this repository
 
