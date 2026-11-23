@@ -48,6 +48,8 @@ MiniOrchester with 3 Speakers
 
 [HOMPI](https://git.rupp.digital/brupp/hompi) - Home Office Meeting Presence Indicator
 
+[Weather Station with OTA Updates](https://github.com/koehlma/rust-workshop-weather-station)
+
 ## Visit this repository
 
 Scan this QR code to open the project's GitHub page:
